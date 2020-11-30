@@ -1,3 +1,7 @@
+#######################################
+# Untukt belajar - Maryadi 30/11/2020 #
+#######################################
+
 import qrcode
 
 def generate(data, img_name="Qrcode.png"):
@@ -6,5 +10,5 @@ def generate(data, img_name="Qrcode.png"):
 	return img
 
 #masukan url nya disini
-url = "https://bookjakarta3.com/"
+url = "https://bvahdsvbsh.com/"
 generate(url)
